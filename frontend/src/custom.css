@@ -1,0 +1,11 @@
+body {
+    min-height: 75rem;
+    padding-top: 5.5rem;
+
+
+}
+
+.btn,
+.form-control {
+    border-radius: 3px;
+}
